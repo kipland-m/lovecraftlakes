@@ -2479,3 +2479,21 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.08-02.17.14:372][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.04.08-02.17.14:374][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
 [2024.04.08-02.17.14:429][581]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.04.08-02.18.24:320][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-02.18.24:346][130]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/04/5YF1HFHNI5HI4SQYTUEYE4
+[2024.04.08-02.18.24:346][130]LogSavePackage: Moving 'C:/Users/kip_m/UnrealProjects/lovecraftlakes/retrofpsgame/Saved/5YF1HFHNI5HI4SQYTUEYE4BA6970004B999C81DC49BC9E96761B4F.tmp' to 'C:/Users/kip_m/UnrealProjects/lovecraftlakes/retrofpsgame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/04/5YF1HFHNI5HI4SQYTUEYE4.uasset'
+[2024.04.08-02.18.24:348][130]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/4Z/OC2D1ZIF6RIF6ORGT6TZ0D
+[2024.04.08-02.18.24:348][130]LogSavePackage: Moving 'C:/Users/kip_m/UnrealProjects/lovecraftlakes/retrofpsgame/Saved/OC2D1ZIF6RIF6ORGT6TZ0D130A54214B1B7AA15D4AC89F8990FD02.tmp' to 'C:/Users/kip_m/UnrealProjects/lovecraftlakes/retrofpsgame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/4Z/OC2D1ZIF6RIF6ORGT6TZ0D.uasset'
+[2024.04.08-02.18.24:350][130]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/TN/TXGT9XCNB5N0RAKKG0Z30R
+[2024.04.08-02.18.24:350][130]LogSavePackage: Moving 'C:/Users/kip_m/UnrealProjects/lovecraftlakes/retrofpsgame/Saved/TXGT9XCNB5N0RAKKG0Z30R3BCE49A8477FE3D16377C1800EB09B13.tmp' to 'C:/Users/kip_m/UnrealProjects/lovecraftlakes/retrofpsgame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/TN/TXGT9XCNB5N0RAKKG0Z30R.uasset'
+[2024.04.08-02.18.24:352][130]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/I5/EKYE7ZTLVMR9TYZFOSF2W4
+[2024.04.08-02.18.24:352][130]LogSavePackage: Moving 'C:/Users/kip_m/UnrealProjects/lovecraftlakes/retrofpsgame/Saved/EKYE7ZTLVMR9TYZFOSF2W4F32C75FF43C67A4AF1FE109D0184A83C.tmp' to 'C:/Users/kip_m/UnrealProjects/lovecraftlakes/retrofpsgame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/I5/EKYE7ZTLVMR9TYZFOSF2W4.uasset'
+[2024.04.08-02.18.24:354][130]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/X1/WYVV07A4JBFA7NG6W643E9
+[2024.04.08-02.18.24:354][130]LogSavePackage: Moving 'C:/Users/kip_m/UnrealProjects/lovecraftlakes/retrofpsgame/Saved/WYVV07A4JBFA7NG6W643E98F784B1A4756C71CEED411B9963572A5.tmp' to 'C:/Users/kip_m/UnrealProjects/lovecraftlakes/retrofpsgame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/X1/WYVV07A4JBFA7NG6W643E9.uasset'
+[2024.04.08-02.18.24:361][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 46 ms)
+[2024.04.08-02.18.24:363][130]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.08-02.18.24:363][130]LogContentValidation: Display: Validating /Game/Enemy/BP_Enemy.BP_Enemy_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Enemy_C_UAID_00155DAF9F6DFDE901_1085416735
+[2024.04.08-02.18.24:363][130]LogContentValidation: Display: Validating /Script/NavigationSystem.NavMeshBoundsVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_00155DAF9F6DFDE901_1171781736
+[2024.04.08-02.18.24:363][130]LogContentValidation: Display: Validating /Script/NavigationSystem.RecastNavMesh /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.RecastNavMesh_UAID_00155DAF9F6DFDE901-Default
+[2024.04.08-02.18.24:363][130]LogContentValidation: Display: Validating /Game/Enemy/BP_Enemy.BP_Enemy_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Enemy_C_UAID_00155DAF9F6DFDE901_1293648738
+[2024.04.08-02.18.24:363][130]LogContentValidation: Display: Validating /Game/Enemy/BP_Enemy.BP_Enemy_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Enemy_C_UAID_00155DAF9F6DFDE901_1715782739
